@@ -72,4 +72,5 @@ This project builds a complete data pipeline — from raw data preprocessing to 
 ---
 
 ## 📂 Project Structure
+<img width="379" height="541" alt="image" src="https://github.com/user-attachments/assets/5ab56e36-5534-48d3-802d-b71ead560c84" />
 
